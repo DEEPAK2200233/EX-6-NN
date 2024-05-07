@@ -81,12 +81,12 @@ plt.show()
 ```
 conf_matrix=confusion_matrix(y_test,y_pred)
 classification_rep=classification_report(y_test,y_pred)
-print("Sriram G")
-print("212222230149")
+print("DEEPAK RAJ S")
+print("212222240023")
 print("Confusion Matrix:")
 print(conf_matrix)
-print("\nSriram G")
-print("212222230149")
+print("\nDEEPAK RAJ S")
+print("212222240023")
 print("Classification Report:")
 print(classification_rep)
 ```
@@ -100,9 +100,7 @@ print(classification_rep)
 
 ![image](https://github.com/Sriram8452/EX-6-NN/assets/118708032/ffb7823b-8018-488d-99fa-385af8e6be0e)
 
-
-![image](https://github.com/Sriram8452/EX-6-NN/assets/118708032/104765a1-33cb-4f4a-b913-1fd8059178a2)
-
+![image](https://github.com/DEEPAK2200233/EX-6-NN/assets/118707676/2850aa3c-0e25-4de6-9b7c-e41057a893b3)
 
 
 

@@ -32,9 +32,9 @@ Step 11:Plot the error convergence during training using plt.plot() and plt.show
 
 <H3>Program: </H3>
 
-DEVELOPED BY: Sriram G
+DEVELOPED BY: DEEPAK RAJ S
 
-REGISTER NUMBER: 212222230149
+REGISTER NUMBER: 212222240023
 
 ```
 import numpy as np
